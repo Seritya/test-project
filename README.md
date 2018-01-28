@@ -1,3 +1,4 @@
 # Guessing Game
-Sun Jan 28 23:59:24 CET 2018
+Mon Jan 29 00:05:54 CET 2018
+## Number of lines in guessinggame.sh
 35 guessinggame.sh
